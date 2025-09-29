@@ -29,7 +29,7 @@ Curvature, often observed in SCG, is simply the *diagnostic face of memory*: a w
 
 ## What this gives you
 
-Once a system is mapped to ((A, \theta, \chi)):
+Once a system is mapped to (A, θ, χ):
 
 1. **Deterministic dynamics**
    The governing equations are second-order in time and energy-conserving. Unlike stochastic models, trajectories are uniquely determined by initial conditions and system couplings.
