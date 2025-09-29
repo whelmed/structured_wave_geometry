@@ -2,6 +2,8 @@
 
 *A deterministic framework for modeling systems*
 
+> Authored by Ben Lambert
+
 ---
 
 ## Why SWG/SCG?
@@ -122,7 +124,7 @@ This reveals unique fingerprints of sleep — stable, fragmented, or fragile —
 
 ## 🤝 Contributing
 
-This work is early and exploratory. Feedback, critique, and collaborations are welcome — whether you’re coming from physics, neuroscience, or machine learning.
+This work is early and exploratory. Feedback, critique, and collaborations are welcome.
 
 ---
 
