@@ -231,11 +231,19 @@ The **canonical mathematical specification** of SWG/SCG:
 ### 📂 `notebooks/`
 
 Practical simulations and implementations:
-- rectifiers
-- collapses
-- invariants
-- geometry diagnostics
-- etc...
+
+
+- chrono-sims for temporal mechanics and time dilation
+- cosmic-sims for relativistic cone geometry and wave propagation
+- electromagnetism-sims for emergent electromagnetic behavior
+- gauge-field-sims for plasma dynamics and curvature waves
+- interferometry-sims for 4π spinor / SU(2) phase detection
+- magnetism-sims for coherent vortices and Meissner-like effects
+- matter-formation-and-quantum-structure for triads and composite states
+- morphogenesis-sims for bio-scale patterning and coherence geometry
+- quantum-collapse-detection for superconducting IQ trace analysis
+- sleep-study for cognitive coherence and neural-phase stability
+- sxs-blackhole-merger for astrophysical waveform collapse analysis
 
 
 ---
